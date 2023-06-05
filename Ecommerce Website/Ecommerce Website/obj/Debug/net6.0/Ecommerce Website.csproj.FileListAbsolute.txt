@@ -1,0 +1,63 @@
+C:\Users\Hp\Desktop\.net web\Ecommerce Website\Ecommerce Website\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hp\Desktop\.net web\Ecommerce Website\Ecommerce Website\bin\Debug\net6.0\appsettings.json
+C:\Users\Hp\Desktop\.net web\Ecommerce Website\Ecommerce Website\bin\Debug\net6.0\Ecommerce Website.staticwebassets.runtime.json
+C:\Users\Hp\Desktop\.net web\Ecommerce Website\Ecommerce Website\bin\Debug\net6.0\Ecommerce Website.exe
+C:\Users\Hp\Desktop\.net web\Ecommerce Website\Ecommerce Website\bin\Debug\net6.0\Ecommerce Website.deps.json
+C:\Users\Hp\Desktop\.net web\Ecommerce Website\Ecommerce Website\bin\Debug\net6.0\Ecommerce Website.runtimeconfig.json
+C:\Users\Hp\Desktop\.net web\Ecommerce Website\Ecommerce Website\bin\Debug\net6.0\Ecommerce Website.dll
+C:\Users\Hp\Desktop\.net web\Ecommerce Website\Ecommerce Website\bin\Debug\net6.0\Ecommerce Website.pdb
+C:\Users\Hp\Desktop\.net web\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\Ecommerce Website.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\.net web\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\Ecommerce Website.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\.net web\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\Ecommerce Website.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\.net web\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\Ecommerce Website.AssemblyInfo.cs
+C:\Users\Hp\Desktop\.net web\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\Ecommerce Website.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\.net web\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\Ecommerce Website.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\Desktop\.net web\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\Ecommerce Website.RazorAssemblyInfo.cache
+C:\Users\Hp\Desktop\.net web\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\Ecommerce Website.RazorAssemblyInfo.cs
+C:\Users\Hp\Desktop\.net web\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hp\Desktop\.net web\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hp\Desktop\.net web\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hp\Desktop\.net web\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\scopedcss\bundle\Ecommerce Website.styles.css
+C:\Users\Hp\Desktop\.net web\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\scopedcss\projectbundle\Ecommerce Website.bundle.scp.css
+C:\Users\Hp\Desktop\.net web\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\Ecommerce Website.dll
+C:\Users\Hp\Desktop\.net web\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\refint\Ecommerce Website.dll
+C:\Users\Hp\Desktop\.net web\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\Ecommerce Website.pdb
+C:\Users\Hp\Desktop\.net web\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\Ecommerce Website.genruntimeconfig.cache
+C:\Users\Hp\Desktop\.net web\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\ref\Ecommerce Website.dll
+C:\Users\Hp\Desktop\Ecommerce Website\Ecommerce Website\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hp\Desktop\Ecommerce Website\Ecommerce Website\bin\Debug\net6.0\appsettings.json
+C:\Users\Hp\Desktop\Ecommerce Website\Ecommerce Website\bin\Debug\net6.0\Ecommerce Website.staticwebassets.runtime.json
+C:\Users\Hp\Desktop\Ecommerce Website\Ecommerce Website\bin\Debug\net6.0\Ecommerce Website.exe
+C:\Users\Hp\Desktop\Ecommerce Website\Ecommerce Website\bin\Debug\net6.0\Ecommerce Website.deps.json
+C:\Users\Hp\Desktop\Ecommerce Website\Ecommerce Website\bin\Debug\net6.0\Ecommerce Website.runtimeconfig.json
+C:\Users\Hp\Desktop\Ecommerce Website\Ecommerce Website\bin\Debug\net6.0\Ecommerce Website.dll
+C:\Users\Hp\Desktop\Ecommerce Website\Ecommerce Website\bin\Debug\net6.0\Ecommerce Website.pdb
+C:\Users\Hp\Desktop\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\Ecommerce Website.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\Ecommerce Website.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\Ecommerce Website.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\Ecommerce Website.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\Ecommerce Website.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\Ecommerce Website.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\Desktop\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\Ecommerce Website.RazorAssemblyInfo.cache
+C:\Users\Hp\Desktop\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\Ecommerce Website.RazorAssemblyInfo.cs
+C:\Users\Hp\Desktop\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hp\Desktop\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hp\Desktop\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hp\Desktop\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\scopedcss\bundle\Ecommerce Website.styles.css
+C:\Users\Hp\Desktop\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\scopedcss\projectbundle\Ecommerce Website.bundle.scp.css
+C:\Users\Hp\Desktop\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\Ecommerce Website.dll
+C:\Users\Hp\Desktop\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\refint\Ecommerce Website.dll
+C:\Users\Hp\Desktop\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\Ecommerce Website.pdb
+C:\Users\Hp\Desktop\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\Ecommerce Website.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\ref\Ecommerce Website.dll
+C:\Users\Hp\Desktop\back-final\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\Ecommerce Website.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\back-final\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\Ecommerce Website.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\back-final\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\Ecommerce Website.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\back-final\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\Ecommerce Website.AssemblyInfo.cs
+C:\Users\Hp\Desktop\back-final\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\Ecommerce Website.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\back-final\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\Ecommerce Website.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\Desktop\back-final\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\Ecommerce Website.RazorAssemblyInfo.cache
+C:\Users\Hp\Desktop\back-final\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\Ecommerce Website.RazorAssemblyInfo.cs
+C:\Users\Hp\Desktop\back-final\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\Ecommerce Website.dll
+C:\Users\Hp\Desktop\back-final\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\refint\Ecommerce Website.dll
+C:\Users\Hp\Desktop\back-final\Ecommerce Website\Ecommerce Website\obj\Debug\net6.0\Ecommerce Website.pdb
